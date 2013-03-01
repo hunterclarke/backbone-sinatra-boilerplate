@@ -1,0 +1,12 @@
+{
+  "name": "my-project-name",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-coffee": "*",
+    "grunt-contrib-compass": "*",
+    "grunt-contrib-handlebars": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-clean": "*"
+  }
+}
