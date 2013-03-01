@@ -1,6 +1,6 @@
 require 'sinatra'
 
-class Project < Sinatra::Application
+class Project < Sinatra::Base
 	get '/' do
 		erb :index
 	end
