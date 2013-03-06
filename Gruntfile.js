@@ -51,7 +51,7 @@ module.exports = function(grunt) {
         uglify: {
             my_target: {
                 files: {
-                    './public/javascripts/application.js': ['./src/lib/jquery-1.9.1.js'
+                    './public/javascripts/application.js': ['./src/lib/jquery-1.9.1.min.js'
                                                         , './src/lib/json2.js'
                                                         , './src/lib/underscore-min.js'
                                                         , './src/lib/backbone-min.js'
