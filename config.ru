@@ -1,3 +1,3 @@
 root = ::File.dirname(__FILE__)
 require ::File.join( root, 'app' )
-run Project.new
+run App.new
